@@ -1,0 +1,57 @@
+[
+  {
+    "order_id": 1001,
+    "date": "2026-01-05",
+    "customer": "Alice",
+    "product": "Laptop",
+    "category": "Electronics",
+    "quantity": 1,
+    "price": 899.99,
+    "city": "New York",
+    "paid": true
+  },
+  {
+    "order_id": 1002,
+    "date": "2026-01-07",
+    "customer": "Bob",
+    "product": "Notebook",
+    "category": "Stationery",
+    "quantity": 3,
+    "price": 4.99,
+    "city": "Chicago",
+    "paid": true
+  },
+  {
+    "order_id": 1003,
+    "date": "2026-01-09",
+    "customer": "Charlie",
+    "product": "Headphones",
+    "category": "Electronics",
+    "quantity": 2,
+    "price": 49.99,
+    "city": "Boston",
+    "paid": false
+  },
+  {
+    "order_id": 1004,
+    "date": "2026-01-12",
+    "customer": "Diana",
+    "product": "Desk Lamp",
+    "category": "Home",
+    "quantity": 1,
+    "price": 29.99,
+    "city": "Seattle",
+    "paid": true
+  },
+  {
+    "order_id": 1005,
+    "date": "2026-01-15",
+    "customer": "Ethan",
+    "product": "Backpack",
+    "category": "Accessories",
+    "quantity": 2,
+    "price": 39.99,
+    "city": "Denver",
+    "paid": true
+  }
+]
