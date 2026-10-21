@@ -1,0 +1,1 @@
+It contains the content of fast api which i started in summer 2026 to learn some basic backend skills 
